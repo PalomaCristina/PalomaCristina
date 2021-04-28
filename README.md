@@ -3,7 +3,7 @@
 - 🔎 I’m currently looking for a job 
 - 🏡 I'm from Brasil, São Paulo
 - 👩🏻‍💻 I’m currently learning HTML5, CSS3, JAVASCRIPT, SQL
-- 📬 you can find me via email paloma1899@gmail.com
+- 📬 you can find me via email paloma1899@gmail.com or via LinkedIn https://www.linkedin.com/in/paloma-cristina-correa/
 - ⚡✨ Fun fact: I'm big fan of Star Wars and Harry Potter 
 
 
