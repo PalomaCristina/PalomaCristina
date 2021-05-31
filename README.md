@@ -7,6 +7,5 @@
 - ⚡✨ Fun fact: I'm big fan of Star Wars and Harry Potter 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/PalomaCristina)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PalomaCristina&layout=compact)](https://github.com/PalomaCristina)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=PalomaCristina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
