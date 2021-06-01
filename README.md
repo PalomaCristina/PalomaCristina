@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/paloma-cristina-correa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>  
  
- ## Estatísticas do Perfil 
+ ## 
  <center>
- ![Snake animation](https://github.com/PalommaCristina/PalomaCristina/blob/output/github-contribution-grid-snake.svg)
-  </center>
+ ![Snake animation](https://github.com/PalomaCristina/PalomaCristina/blob/output/github-contribution-grid-snake.svg)
+ </center>
