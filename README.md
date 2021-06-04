@@ -3,8 +3,9 @@
 - 🏡 I'm from Brasil, São Paulo
  <div>
   <a href="https://github.com/PalomaCristina">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalomaCristina&layout=compact&langs_count=16&theme=cobalt"/>
+   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PalomaCristina&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalomaCristina&layout=compact&langs_count=16&theme=dracula"/>
 <div>
  
  ## languages :nerd_face:
