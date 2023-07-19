@@ -5,7 +5,7 @@
  	user = 'Paloma Cristina'
   	occupation = "System Analyst I"
 		city = "São Paulo - SP"
-		current_edu = "Universidade Nove de Julho (UNINOVE)"
+		current_job = "DNK Infotelecom"
 		status = "in love with technology"
 	
  ```
