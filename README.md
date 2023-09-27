@@ -3,7 +3,7 @@
  ```python
  class WhoAmI:
  	user = 'Paloma Cristina'
-  	occupation = "System Analyst I"
+  	occupation = "Software Engineer"
 		city = "São Paulo - SP"
 		current_job = "DNK Infotelecom"
 		status = "in love with technology"
