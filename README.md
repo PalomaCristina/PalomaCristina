@@ -29,14 +29,14 @@
  <a href="https://instagram.com/palomac.c" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </div>  
  
- ## 
+ ## Social Media
  <div>
   <a href="https://github.com/PalomaCristina">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalomaCristina&layout=compact&langs_count=16&theme=cobalt"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PalomaCristina&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
 <div>
  
- ## 
+ ## Commit's Frequency
 
  ![Snake animation](https://github.com/PalomaCristina/PalomaCristina/blob/output/github-contribution-grid-snake.svg)
 
